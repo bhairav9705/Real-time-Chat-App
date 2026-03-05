@@ -1,5 +1,7 @@
 # Full Stack Realtime Chat App
 
+### App Live at https://chatty-real-time-chat-app-45kq.onrender.com
+
 Highlights:
 
 - Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
